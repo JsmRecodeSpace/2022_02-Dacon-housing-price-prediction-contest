@@ -1,7 +1,9 @@
 
 # < 2022_02 데이콘 집값 예측 경진대회 >
 
+위에 업로드 되어 있고 대회에 공유한 코드
 https://www.dacon.io/competitions/official/235869/codeshare/4434?page=1&dtype=recent
+
 
 ## 1.배경  
 안녕하세요 여러분!🙌 집값 예측 경진대회에 오신 것을 환영합니다.
