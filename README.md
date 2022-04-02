@@ -3,7 +3,7 @@
  
 ## 0. 업로드 파일
  - Private 3위, Private 점수 - 0988, 씨드 앙상블의 앙상블
- - 위에 업로드 되어 있고 대회에 공유한 코드 (https://www.dacon.io/competitions/official/235869/codeshare/4434?page=1&dtype=recent)
+ - 위에 업로드 되어 있고 어떻게 하였는지 대회에 공유한 코드 (https://www.dacon.io/competitions/official/235869/codeshare/4434?page=1&dtype=recent)
 
 
 ## 1.배경 & 목적
